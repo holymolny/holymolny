@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello everybody 👋
+
+- 🔭 I’m currently working on projects related to Natural Language Processing (NLP), Computational Linguistics (CL), and Data Science.
+- 🌱 I’m currently pursuing my Master's degree in Digital Humanities at Università di Pisa .
+- 📫 How to reach me: [mihneamolnar@gmail.com](mailto:mihneamolnar@gmail.com) or [m.molnar@studenti.unipi.it](mailto:m.molnar@studenti.unipi.it)
 
 <!--
 **holymolny/holymolny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
